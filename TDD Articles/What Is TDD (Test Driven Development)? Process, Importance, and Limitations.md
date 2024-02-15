@@ -11,8 +11,7 @@ Kent Beck이 1990년대 후반 XP(eXtreme Programming) 소프트웨어 설계에
 
 ![제목을 입력해주세요_-001](https://github.com/yunieom/TDD-study/assets/67372083/167ec5b6-1300-4146-ac1d-cd686fdf7561)
 
-### Red → Green → Refactor 
-주기를 가진 프로세스
+### Red → Green → Refactor 주기를 가진 프로세스
 
 1. Red
     1. 구현될 동작에 대한 테스트 생성
