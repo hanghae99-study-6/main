@@ -12,3 +12,6 @@
 
 스터디는 매주 수요일 오후 8시에 시작함
 스터디 결석, 지각시 벌금 일괄 5천원
+
+## 스터디 일지
+https://teamsparta.notion.site/6-73b780b9858c43cfad7a927da3a1e0c6
